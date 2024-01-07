@@ -9,7 +9,7 @@ I am a web developer with expertise in building dynamic and responsive user inte
 - **Tools:** Git, Visual Studio Code, Docker
 
 ## 🚀 Projects
-- [WordPress Project](https://github.com/NexDesign-Agency/Dooplay-Autoembed-Website): Streaming Movie Website with Autoembed Functionality
+- [Dooplay-Autoembed-Website](https://github.com/NexDesign-Agency/Dooplay-Autoembed-Website): Streaming Movie Website with Autoembed Functionality
 - [PHP Project](link-to-repo): Brief description of the PHP project you've developed.
 - [Python Project](link-to-repo): Brief description of the Python project reflecting your expertise.
 - ...
