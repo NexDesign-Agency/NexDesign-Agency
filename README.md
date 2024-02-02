@@ -10,7 +10,7 @@ I am a web developer with expertise in building dynamic and responsive user inte
 
 ## 🚀 Projects
 - [Dooplay-Autoembed-Website](https://github.com/NexDesign-Agency/Dooplay-Autoembed-Website): Streaming Movie Website with Autoembed Functionality
-- [MasterBill - Inventory + POS (point Of Sales)]([link-to-repo](https://github.com/NexDesign-Agency/MasterBill-Inventory-Pos)): Pos system with inventory barcode scanner and stock alert.
+- [MasterBill - Inventory + POS (point Of Sales)](https://github.com/NexDesign-Agency/MasterBill-Inventory-Pos): Pos system with inventory barcode scanner and stock alert.
 
 
 ## 📚 Education
