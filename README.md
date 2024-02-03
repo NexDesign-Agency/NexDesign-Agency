@@ -14,8 +14,8 @@ I am a web developer with expertise in building dynamic and responsive user inte
 
 
 ## 📚 Education
-- Self-taught with a focus on web development and Python programming.
-
+- Bachelor in Computer Science
+- 
 ## 🌐 Connect with Me
 - WhatsApp: [+6281295657833](tel:+6281295657833)
 - Email: [nexagency88@gmail.com](mailto:nexagency88@gmail.com)
